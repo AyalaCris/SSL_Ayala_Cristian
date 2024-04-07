@@ -1,0 +1,1 @@
+Como el ejemplo del TP0 tambien el programa va a imprimir un "HOLA MUNDO"
